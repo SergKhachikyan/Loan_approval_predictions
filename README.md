@@ -10,6 +10,9 @@ This project is a machine learning model for predicting loan approval based on v
 - `README.md` — documentation  
 - `.gitignore` — Git ignore rules  
 
+![loan](https://github.com/user-attachments/assets/4b8495ad-537a-4112-adbf-07ac0f15659e)
+
+
 ## 🧠 Technologies Used  
 - Python 3.x  
 - Pandas, NumPy  
